@@ -1,0 +1,2 @@
+int tempin;
+int tempout;
